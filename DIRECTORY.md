@@ -1122,6 +1122,8 @@
     * [Sol1](project_euler/problem_092/sol1.py)
   * Problem 094
     * [Sol1](project_euler/problem_094/sol1.py)
+  * Problem 095
+    * [Sol1](project_euler/problem_095/sol1.py)
   * Problem 097
     * [Sol1](project_euler/problem_097/sol1.py)
   * Problem 099
@@ -1202,6 +1204,8 @@
     * [Sol1](project_euler/problem_234/sol1.py)
   * Problem 301
     * [Sol1](project_euler/problem_301/sol1.py)
+  * Problem 345
+    * [Sol1](project_euler/problem_345/sol1.py)
   * Problem 493
     * [Sol1](project_euler/problem_493/sol1.py)
   * Problem 551
